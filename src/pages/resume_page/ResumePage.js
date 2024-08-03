@@ -45,17 +45,7 @@ function Resume() {
                 <Document file={resumeLink}>
                   <Page pageNumber={1} scale={width > 786 ? 1.6 : 0.4} />
                 </Document>
-
-              
-              // </div>
-              // <div className="d-flex justify-content-center">
-              //   <Button variant="primary" href={pdf} target="_blank">
-              //     <AiOutlineDownload />
-              //     &nbsp;Download Resume
-              //   </Button>
-              // </div>
-
-              
+              </div>
             </div>
           </Container>
         </Container>
